@@ -1,0 +1,17 @@
+ 1. git --version  : check version
+ 2. Setup
+  - C:/Program Data/git/config : config global
+  - local/user/git/config : lưu cho user
+  - .git/config : cho reponsitories  : lưu cho dự án
+ 3. cấu hình thông tin
+  - git config --global user.name "username"
+  - git config --global user.email mailname@mail.com
+ 4. set editor
+ - git config --global core.editor "'E:\Program Files (x86)\Notepad++\Notepad++.exe' -multiInst -noession"
+ 5. check config seting
+ - git config --list
+ 6. check help
+ - git clone --help
+ - git config --help
+ 7. Repository
+ 
